@@ -68,7 +68,7 @@ public class BrowserUtils {
     }
     public static void takeScreenShot() throws IOException {
         File scr=((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.FILE);
-        File destinationFile=new File("ScreenShotFile\\"+System.currentTimeMillis()+".png");
+        File destinationFile=new File("ScreenShotFile\\"+ System.currentTimeMillis()+".png");
         FileUtils.copyFile(scr,destinationFile);
     }
     /*
