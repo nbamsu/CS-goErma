@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b97f962-fda5-4ac3-a432-d5b1c6895d28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ErmaArietBaha.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java class videos\CS-goErma\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZavKdzbeSqFxPDu93AK1aBXJXo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Issue.Navigation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java class videos\CS-goErma" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b97f962-fda5-4ac3-a432-d5b1c6895d28" name="Default Changelist" comment="" />
+      <created>1585089956535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585089956535</updated>
+    </task>
+    <task id="LOCAL-00001" summary="erma added txt file">
+      <created>1585090160096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585090160096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="erma answer txt file">
+      <created>1585090376863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585090376863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Good job Baha u know a lot of thing adding Class1">
+      <created>1585091785112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585091785112</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ermek added Delete_Verify class and created API Package">
+      <created>1585092128793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585092128793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="erma added txt file" />
+    <MESSAGE value="erma answer txt file" />
+    <MESSAGE value="Good job Baha u know a lot of thing adding Class1" />
+    <MESSAGE value="Ermek added Delete_Verify class and created API Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ermek added Delete_Verify class and created API Package" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585090473570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="140" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585090473570" />
+    <state x="48" y="13" key="CommitChangelistDialog2" timestamp="1585096822301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585096822301" />
+    <state x="173" y="159" key="FileChooserDialogImpl" timestamp="1585093995428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="173" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585093995428" />
+    <state x="227" y="316" width="354" height="202" key="Github.CreateGistDialog" timestamp="1585094014095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="227" y="316" width="354" height="202" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585094014095" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1585090591072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585090591072" />
+    <state x="0" y="160" key="Vcs.Push.Dialog.v2" timestamp="1585096831303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="160" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585096831303" />
+    <state x="89" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585091088332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="89" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585091088332" />
+    <state x="117" y="209" key="git4idea.merge.GitPullDialog" timestamp="1585096856469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="117" y="209" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1585096856469" />
+    <state x="221" y="318" key="git4idea.ui.GitStashDialog" timestamp="1585096848950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="221" y="318" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1585096848950" />
+  </component>
+</project>
