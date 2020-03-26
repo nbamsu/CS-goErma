@@ -4,6 +4,13 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.apache.http.HttpResponse;
+import org.apache.http.HttpStatus;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpDelete;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.utils.URIBuilder;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.junit.Assert;
 
 import java.io.IOException;
@@ -42,4 +49,4 @@ public class deleteApi {
         HttpResponse resp = client.execute(get);
         Assert.assertEquals(HttpStatus.SC_NOT_FOUND, resp.getStatusLine().getStatusCode());}
 }
-}
+
